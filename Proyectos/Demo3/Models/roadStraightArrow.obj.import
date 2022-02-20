@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadStraightArrow.obj-9f7c0b0b278ca26c3056d134658107c5.mesh"
+
+[deps]
+
+files=[ "res://.import/roadStraightArrow.obj-9f7c0b0b278ca26c3056d134658107c5.mesh" ]
+
+source_file="res://Models/roadStraightArrow.obj"
+dest_files=[ "res://.import/roadStraightArrow.obj-9f7c0b0b278ca26c3056d134658107c5.mesh", "res://.import/roadStraightArrow.obj-9f7c0b0b278ca26c3056d134658107c5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
